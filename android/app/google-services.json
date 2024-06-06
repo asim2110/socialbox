@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "695073783876",
+    "project_id": "social-box-6a57f",
+    "storage_bucket": "social-box-6a57f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:695073783876:android:e85d2153b37652ae667c11",
+        "android_client_info": {
+          "package_name": "com.example.socialbox"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCHJkcwxzHh89w-8HPh5LyF5hpzppx1QU8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
